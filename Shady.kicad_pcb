@@ -69,7 +69,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gbr")
+      (outputdirectory "gbr2")
     )
   )
 
@@ -39157,7 +39157,7 @@
   (gr_line (start 37.75 143.75) (end 35.55 141.75) (layer "B.SilkS") (width 0.12) (tstamp c1fbee58-f474-4414-9110-64abd03ed7c9))
   (gr_line (start 63.55 39.25) (end 35.55 39.25) (layer "B.SilkS") (width 0.12) (tstamp cbb6579a-72cf-4504-9bef-bb32135a4790))
   (gr_line (start 35.55 143.75) (end 63.55 143.75) (layer "B.SilkS") (width 0.12) (tstamp e9febdd1-669e-46f3-983e-2ded7b5fa339))
-  (gr_arc (start 47.514076 51.978811) (mid 54.94 39.35) (end 62.254076 52.048811) (layer "F.SilkS") (width 0.66) (tstamp 00000000-0000-0000-0000-0000600da083))
+  (gr_arc (start 47.514076 51.978811) (mid 54.944217 39.350019) (end 62.254076 52.048811) (layer "F.SilkS") (width 0.66) (tstamp 00000000-0000-0000-0000-0000600da083))
   (gr_line (start 54.95 47.85) (end 47.45 40.35) (layer "F.SilkS") (width 0.66) (tstamp 00000000-0000-0000-0000-0000612c4333))
   (gr_line (start 54.95 87.25) (end 62.45 79.75) (layer "F.SilkS") (width 0.66) (tstamp 17c8d44a-e155-4998-81cb-438e1ee83fa9))
   (gr_line (start 54.95 67.55) (end 47.45 60.05) (layer "F.SilkS") (width 0.66) (tstamp 1ebce183-d3ad-4022-b82e-9e0d8cd628db))

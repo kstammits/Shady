@@ -2559,6 +2559,11 @@
     (uuid fca00118-b923-48c2-9006-90b1b89cadd6)
   )
 
+  (text "LED resistors R26,27,28 can be 1K to 10K\ndepending on how bright you like them"
+    (at 338.455 182.88 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8fe437b3-5971-4b89-87f3-45baa0f5b602)
+  )
   (text "Face / Rear" (at 37.465 43.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d83a3483-8f89-4f7f-a236-6eb5fa476534)
@@ -3848,7 +3853,7 @@
     (in_bom yes) (on_board yes)
     (uuid 2e1d3295-411c-4b57-8b8a-6e6b61e2957a)
     (property "Reference" "R28" (id 0) (at 338.455 197.3072 90))
-    (property "Value" "33K" (id 1) (at 338.455 199.6186 90))
+    (property "Value" "1K" (id 1) (at 338.455 199.6186 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" (id 2) (at 338.455 200.787 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4259,7 +4264,7 @@
     (in_bom yes) (on_board yes)
     (uuid 62f8f19c-ac9d-486e-be49-d1823ecfae61)
     (property "Reference" "R27" (id 0) (at 336.55 19.5072 90))
-    (property "Value" "33K" (id 1) (at 336.55 21.8186 90))
+    (property "Value" "1K" (id 1) (at 336.55 21.8186 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" (id 2) (at 336.55 22.987 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4759,7 +4764,7 @@
     (in_bom yes) (on_board yes)
     (uuid c84eaf9d-5abe-4349-8093-0970633b0a50)
     (property "Reference" "R26" (id 0) (at 344.805 109.0422 90))
-    (property "Value" "33K" (id 1) (at 344.805 111.3536 90))
+    (property "Value" "1K" (id 1) (at 344.805 111.3536 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" (id 2) (at 344.805 112.522 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5296,13 +5301,13 @@
       (reference "R25") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/c84eaf9d-5abe-4349-8093-0970633b0a50"
-      (reference "R26") (unit 1) (value "33K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+      (reference "R26") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/62f8f19c-ac9d-486e-be49-d1823ecfae61"
-      (reference "R27") (unit 1) (value "33K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+      (reference "R27") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/2e1d3295-411c-4b57-8b8a-6e6b61e2957a"
-      (reference "R28") (unit 1) (value "33K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+      (reference "R28") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005fb6ae8f"
       (reference "RV1") (unit 1) (value "B10K") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
