@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "Shady")
-    (date "2022-04-22")
-    (rev "v1.0.1")
+    (date "2022-06-02")
+    (rev "v1.1.1")
     (company "karltron.com")
     (comment 1 "based on Mutable Shades v4")
   )
@@ -69,7 +69,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gbr2")
+      (outputdirectory "gbr0")
     )
   )
 
@@ -39159,16 +39159,71 @@
   (gr_line (start 35.55 143.75) (end 63.55 143.75) (layer "B.SilkS") (width 0.12) (tstamp e9febdd1-669e-46f3-983e-2ded7b5fa339))
   (gr_arc (start 47.514076 51.978811) (mid 54.944217 39.350019) (end 62.254076 52.048811) (layer "F.SilkS") (width 0.66) (tstamp 00000000-0000-0000-0000-0000600da083))
   (gr_line (start 54.95 47.85) (end 47.45 40.35) (layer "F.SilkS") (width 0.66) (tstamp 00000000-0000-0000-0000-0000612c4333))
+  (gr_poly
+    (pts
+      (xy 37.55 75.541584)
+      (xy 37.55 74.191584)
+      (xy 39.2 74.191584)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 0ee99b52-5dd0-45bf-bfb2-00cb46b9d8bd))
+  (gr_poly
+    (pts
+      (xy 37.55 95)
+      (xy 37.55 93.65)
+      (xy 39.2 93.65)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 11db618c-1853-4de4-b3ac-11699775680d))
   (gr_line (start 54.95 87.25) (end 62.45 79.75) (layer "F.SilkS") (width 0.66) (tstamp 17c8d44a-e155-4998-81cb-438e1ee83fa9))
   (gr_line (start 54.95 67.55) (end 47.45 60.05) (layer "F.SilkS") (width 0.66) (tstamp 1ebce183-d3ad-4022-b82e-9e0d8cd628db))
   (gr_line (start 54.95 67.55) (end 62.45 60.05) (layer "F.SilkS") (width 0.66) (tstamp 4c77837f-2440-4b7b-8e7e-430f981c7c04))
+  (gr_poly
+    (pts
+      (xy 40.85 82)
+      (xy 37.55 82)
+      (xy 40.85 79.85)
+    ) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp 54d294f1-9def-40f9-a118-1ae9fcbc6144))
+  (gr_poly
+    (pts
+      (xy 37.55 55.7)
+      (xy 37.55 54.35)
+      (xy 39.2 54.35)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 5df85385-9e7f-443b-9641-9ccef1533f89))
+  (gr_poly
+    (pts
+      (xy 40.85 74.191584)
+      (xy 39.2 74.191584)
+      (xy 40.85 72.841584)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 632e1bc5-8bb4-4b09-9b08-a39131a592bb))
   (gr_line (start 54.95 87.25) (end 47.45 79.75) (layer "F.SilkS") (width 0.66) (tstamp 88560847-ae10-4705-b2a9-799bbf32e0fc))
   (gr_line (start 54.95 47.85) (end 62.45 40.35) (layer "F.SilkS") (width 0.66) (tstamp 937928d4-4dfb-4f2f-91d0-697ec54ac283))
+  (gr_poly
+    (pts
+      (xy 40.85 54.35)
+      (xy 39.2 54.35)
+      (xy 40.85 53)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 9d104ee9-c088-4493-8f3c-4cda97593e0e))
+  (gr_poly
+    (pts
+      (xy 40.85 93.65)
+      (xy 39.2 93.65)
+      (xy 40.85 92.3)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp a532b3cb-18e4-4012-9a55-9a6d7f353169))
   (gr_arc (start 47.54 91.42) (mid 54.992658 78.737802) (end 62.29 91.51) (layer "F.SilkS") (width 0.66) (tstamp b8a60015-c8dc-4e39-a61f-b8f598b0a090))
+  (gr_poly
+    (pts
+      (xy 40.85 42.7)
+      (xy 37.55 42.7)
+      (xy 40.85 40.55)
+    ) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp c46695ad-47f4-4893-bf01-458fd740cd88))
+  (gr_poly
+    (pts
+      (xy 40.85 62.55)
+      (xy 37.55 62.55)
+      (xy 40.85 60.4)
+    ) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp d8cf9e18-b66a-4484-b3a5-9472a033f611))
   (gr_arc (start 47.57 71.76) (mid 54.969584 59.044247) (end 62.3 71.8) (layer "F.SilkS") (width 0.66) (tstamp dbe6edc1-ee1c-41ad-b94e-6a468b80b874))
   (gr_line (start 35.55 162.75) (end 35.55 25.05) (layer "Dwgs.User") (width 0.15) (tstamp 00000000-0000-0000-0000-0000600d036f))
   (gr_line (start 33.35 39.25) (end 220.85 39.25) (layer "Dwgs.User") (width 0.15) (tstamp 00000000-0000-0000-0000-00006168b66e))
   (gr_line (start 104.55 25) (end 104.55 158.75) (layer "Dwgs.User") (width 0.15) (tstamp 00000000-0000-0000-0000-00006168b671))
+  (gr_line (start 40.85 39.65) (end 40.85 97.6) (layer "Dwgs.User") (width 0.1) (tstamp 20b6e7b7-e1c4-41de-88b3-3c6037e1a4ea))
   (gr_line (start 16.6 155.75) (end 225.8 155.75) (layer "Dwgs.User") (width 0.15) (tstamp 29e27db0-3c69-4f62-9b26-37b540cf4f34))
   (gr_line (start 103.55 158.8) (end 103.55 25.4) (layer "Dwgs.User") (width 0.15) (tstamp 3581de8b-daeb-467a-8039-51714599e4ba))
   (gr_line (start 118.904877 44.054673) (end 118.904877 37.104673) (layer "Dwgs.User") (width 0.1) (tstamp 3596a7a0-bc62-4cd1-81e4-5bc2b77e4f2f))
@@ -39248,7 +39303,7 @@
   (gr_text "5V" (at 77.04632 51.49632) (layer "B.SilkS") (tstamp 4968ede9-1e86-4f1f-a593-d63184649ac8)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "Shady v1.0.1 karltron.com\nDerived from \nMutable Instruments' Shades\nKDS2022-04-25" (at 49.45 98.6) (layer "B.SilkS") (tstamp 49c3a7d7-9453-4986-bcff-387f274073df)
+  (gr_text "Shady v1.1.1 karltron.com\nDerived from \nMutable Instruments' Shades\nKDS2022-04-25" (at 49.45 98.6) (layer "B.SilkS") (tstamp 49c3a7d7-9453-4986-bcff-387f274073df)
     (effects (font (size 1.25 1.25) (thickness 0.25)) (justify mirror))
   )
   (gr_text "5V" (at 76.94632 91.19632) (layer "B.SilkS") (tstamp 9ba503a0-cef8-4726-ba4a-bbfb32d6a310)
@@ -39283,9 +39338,6 @@
   )
   (gr_text "1" (at 49.66 103.83) (layer "F.SilkS") (tstamp d6882960-865e-42be-943f-65ce269b388a)
     (effects (font (size 3 2.5) (thickness 0.6)))
-  )
-  (gr_text "UNTESTED" (at 100.75 25.45) (layer "Cmts.User") (tstamp 047cf595-1972-4c2a-a70b-65489a060f88)
-    (effects (font (size 5 5) (thickness 1)))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 00000000-0000-0000-0000-0000600d036d)
     (pts (xy 64.55 25.55) (xy 34.55 25.55))
